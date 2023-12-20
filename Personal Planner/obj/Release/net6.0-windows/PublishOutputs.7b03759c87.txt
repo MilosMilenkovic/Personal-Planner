@@ -1,0 +1,5 @@
+C:\Users\Karyu\Desktop\Faks 4. god\Praktikum prog 2\Personal Planner.exe
+C:\Users\Karyu\Desktop\Faks 4. god\Praktikum prog 2\Personal Planner.dll
+C:\Users\Karyu\Desktop\Faks 4. god\Praktikum prog 2\Personal Planner.deps.json
+C:\Users\Karyu\Desktop\Faks 4. god\Praktikum prog 2\Personal Planner.runtimeconfig.json
+C:\Users\Karyu\Desktop\Faks 4. god\Praktikum prog 2\Personal Planner.pdb

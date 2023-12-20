@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSimpleTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SimpleTask>
+    <isComplete>false</isComplete>
+    <Title>Observer test</Title>
+    <Description>Observer testing</Description>
+    <DueDate>2023-12-16T23:53:08</DueDate>
+    <Type>Personal</Type>
+  </SimpleTask>
+  <SimpleTask>
+    <isComplete>false</isComplete>
+    <Title>Game</Title>
+    <Description>Play LOL</Description>
+    <DueDate>2023-12-08T20:40:07</DueDate>
+    <Type>Fun</Type>
+  </SimpleTask>
+</ArrayOfSimpleTask>

@@ -1,0 +1,18 @@
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\bin\Release\net6.0-windows\Personal Planner.exe
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\bin\Release\net6.0-windows\Personal Planner.deps.json
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\bin\Release\net6.0-windows\Personal Planner.runtimeconfig.json
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\bin\Release\net6.0-windows\Personal Planner.dll
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\bin\Release\net6.0-windows\Personal Planner.pdb
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal_Planner.AddTaskForm.resources
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal_Planner.PlannerForm.resources
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal_Planner.Properties.Resources.resources
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal Planner.csproj.GenerateResource.cache
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal Planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal Planner.AssemblyInfoInputs.cache
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal Planner.AssemblyInfo.cs
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal Planner.csproj.CoreCompileInputs.cache
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal Planner.dll
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\refint\Personal Planner.dll
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal Planner.pdb
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\Personal Planner.genruntimeconfig.cache
+C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\obj\Release\net6.0-windows\ref\Personal Planner.dll

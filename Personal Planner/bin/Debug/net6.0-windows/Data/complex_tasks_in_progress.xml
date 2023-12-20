@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfComplexTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ComplexTask>
+    <isComplete>false</isComplete>
+    <components>
+      <SimpleTask>
+        <isComplete>false</isComplete>
+        <Title>Methods</Title>
+        <Description>Replace redundant code with methods</Description>
+        <DueDate>2023-12-30T19:39:17</DueDate>
+        <Type>School</Type>
+      </SimpleTask>
+      <SimpleTask>
+        <isComplete>false</isComplete>
+        <Title>Lessen redundancy further</Title>
+        <Description>Replace redundant fields with separate class</Description>
+        <DueDate>2023-12-30T19:39:17</DueDate>
+        <Type>School</Type>
+      </SimpleTask>
+    </components>
+    <Title>SP Project</Title>
+    <Description>Refactor code</Description>
+    <DueDate>2023-12-24T19:38:55</DueDate>
+    <Type>School</Type>
+  </ComplexTask>
+  <ComplexTask>
+    <isComplete>false</isComplete>
+    <components>
+      <SimpleTask>
+        <isComplete>false</isComplete>
+        <Title>sub</Title>
+        <Description>sub</Description>
+        <DueDate>2023-12-17T19:50:46</DueDate>
+        <Type>Personal</Type>
+      </SimpleTask>
+      <SimpleTask>
+        <isComplete>false</isComplete>
+        <Title>sub</Title>
+        <Description>sub</Description>
+        <DueDate>2023-12-17T19:50:46</DueDate>
+        <Type>Personal</Type>
+      </SimpleTask>
+      <SimpleTask>
+        <isComplete>false</isComplete>
+        <Title />
+        <Description />
+        <DueDate>2023-12-17T19:50:46</DueDate>
+        <Type>Personal</Type>
+      </SimpleTask>
+    </components>
+    <Title>Test</Title>
+    <Description>Test</Description>
+    <DueDate>2023-12-16T19:50:39</DueDate>
+    <Type>Personal</Type>
+  </ComplexTask>
+</ArrayOfComplexTask>

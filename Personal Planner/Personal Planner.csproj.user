@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Karyu\source\repos\Personal Planner\Personal Planner\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddComplexTaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddTaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlannerMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubstasksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaskChoiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
